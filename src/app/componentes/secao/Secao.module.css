@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -38,3 +39,45 @@
   gap: 10px;
  
 }
+=======
+
+
+
+
+.divDesen{
+    width: 100%;
+    height: 60%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    padding-top: 30px;
+    background-color: black;
+}
+
+.divDesen h3{
+    padding: 15px;
+}
+
+.divDesen p{
+    width: 50%;
+    max-width: 90vh;
+    margin: auto;
+    padding: 10px 0px;
+    line-height: 20px;
+}
+.ul{
+    width: 30%;
+    max-width: 70px;
+    margin: 0 auto;
+    padding: 10px;
+
+}
+
+.imgDesen{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+ 
+}
+>>>>>>> 06b06dd36dfe8e17efac91552ed5c0c7918ea744

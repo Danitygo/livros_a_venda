@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .divSobre{
     width: 50%;
@@ -18,4 +19,26 @@
 .divSobre span{
     color: chocolate;
     line-height: 20px;
+=======
+
+.divSobre{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 30px 0px;
+}
+
+.sobreImagem{
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+    margin: 0 auto;
+
+}
+
+.divSobre span{
+    color: chocolate;
+    line-height: 20px;
+>>>>>>> 06b06dd36dfe8e17efac91552ed5c0c7918ea744
 }

@@ -1,3 +1,4 @@
+
 import Image from 'next/image'
 import estilos from './Secao.module.css'
 function Secao(){
@@ -19,5 +20,8 @@ function Secao(){
         </div>
     )
 }
+
+
+
 
 export default Secao;

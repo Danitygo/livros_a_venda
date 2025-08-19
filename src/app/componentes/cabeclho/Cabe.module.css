@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .cabeca{
     width: 100%;
     height: 60px;
@@ -19,30 +18,5 @@
     margin: 5px;
     text-decoration: none;
     position: relative;
-    top: -5px;
-    
-=======
-.cabeca{
-    width: 100%;
-    height: 60px;
-    background-color: rgb(243, 249, 193);
-    position: fixed;
-    display: flex;
-    flex-direction: column;
-  
-}
-
-.imgCabeca{
-    width: 5%;
-    padding-top: 5px;
-    
-}
-
-.linksCabeca{
-    margin: 5px;
-    text-decoration: none;
-    position: relative;
-    top: -5px;
-    
->>>>>>> 06b06dd36dfe8e17efac91552ed5c0c7918ea744
+    top: -5px;  
 }

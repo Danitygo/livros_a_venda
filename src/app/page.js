@@ -3,9 +3,9 @@ import Link from "next/link";
 import styles from "./page.module.css";
 import VisaoGeral from "./componentes/visaoGeral/visao";
 import Secao from "./componentes/secao/secao";
-import SobreNos from "./componentes/SobreNos/sobre";
 import Contato from "./componentes/contato/contato";
 import Cabecalho from "./componentes/cabeclho/cabecalho";
+import SobreNos from "./componentes/sobreNos/sobre";
 
 export default function Home() {
   return (
